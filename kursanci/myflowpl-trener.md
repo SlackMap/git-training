@@ -1,3 +1,3 @@
 # Piotr Błaszczak
 
-Cześć zajmuję się...
+Cześć zajmuję się szkoleniami: Angular, Nest, RxJS, Git
