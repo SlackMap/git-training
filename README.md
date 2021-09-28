@@ -7,3 +7,5 @@ Jak najbardziej
 A może i nie...
 
 Czasami OK:)
+
+Jest spoko
