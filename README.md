@@ -1,6 +1,11 @@
 # git-training
 Git workshop on Git Flow &amp; Github
+## Opinie
 
-## Lubię gita
+Jak najbardziej
 
-jest spoko 
+A może i nie...
+
+Czasami OK:)
+
+Jest spoko
