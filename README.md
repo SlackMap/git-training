@@ -5,6 +5,8 @@ Git workshop on Git Flow &amp; Github
 
 Jak najbardziej
 
+Moja opinia jest pozytywna... @myflowpl ;)
+
 A może i nie...
 
 Czasami OK:)
