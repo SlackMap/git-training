@@ -1,6 +1,7 @@
 # git-training
 Git workshop on Git Flow &amp; Github
 
-## Lubie Gita ;D
+## Opinie
 
-Jak najbardziej xD
+Opinie kursantów o systemie Git:
+Jak najbardziej
