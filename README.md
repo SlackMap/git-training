@@ -1,6 +1,8 @@
 # git-training
 Git workshop on Git Flow &amp; Github
 
-## Lubię Gita ;)
+## Opinie
 
-Tak, i nie, to zalezy...
+Opinie kursantów o systemie Git:
+
+Moja opinia jest pozytywna... @myflowpl ;)
