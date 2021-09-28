@@ -5,3 +5,4 @@ Git workshop on Git Flow &amp; Github
 
 Opinie kursantów o systemie Git:
 
+A może i nie...
