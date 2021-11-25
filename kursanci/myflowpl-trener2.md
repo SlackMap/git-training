@@ -1,3 +1,0 @@
-# @myflowpl
-
-Hello from Zyrardów :)
