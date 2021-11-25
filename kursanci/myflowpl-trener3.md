@@ -1,4 +1,0 @@
-# Trener Sages
-
-Piotr Błaszczak
-
