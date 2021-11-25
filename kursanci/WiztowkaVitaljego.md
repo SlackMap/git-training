@@ -1,0 +1,1 @@
+Dzięki za fajnę szkolenie)))
