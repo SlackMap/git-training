@@ -1,1 +1,1 @@
-# Pozdrowniea z Nowego Sącza
+# Pozdrowienia z Nowego Sącza
