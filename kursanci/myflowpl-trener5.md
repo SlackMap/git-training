@@ -4,4 +4,4 @@
 
 ## dodatek
 
-github.com/myflowpl
+github.com/myflowplMy Flow PL dobre szkolenie z Gita 24 lipca 2023
